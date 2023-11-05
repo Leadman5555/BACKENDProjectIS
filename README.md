@@ -20,9 +20,13 @@ Mocno zaangażowałem się w zadanie rekrutacyjne, stopniowo poznawając Spring 
 
 ## O projekcie
 
+### Ogólna idea
+
+Do bazy danych można dodawać developerów, projekty i zadania. Każdy projekt ma trzy główne pola: developera, który go stworzył, drużynę developerów, którzy nad nim pracują i są do niego przypisani na etapie tworzenia projektu oraz listę przypisanych zadań. Zadania można przypisywać, a później edytować, do dowolnego projektu, a do każdego zadania - odpowiedniego developera, który się nim zajmuje i może je ukończyć.
+
 ### Spełnione wymagania
 
-Projekt spełnia wszystkie wymagania z Waszej listy, łącznie z "Nice to have" - testami jednostkowymi oraz dokumentacją. Całość jest napisana w Javie z użyciem Spring Boot, a zewnętrzną bazą danych jest MySQL. Requesty testowałem przy użyciu Postman'a i testów jednostkowych. 
+Projekt spełnia wszystkie wymagania z Waszej listy, łącznie z "Nice to have" - testami jednostkowymi oraz dokumentacją. W projektcie są również zaimplementowane metody obsługujące dodatkowe requesty nieopisane w wymaganiach czy też dodatkowe pola dla modeli. Całość jest napisana w Javie z użyciem Spring Boot, a zewnętrzną bazą danych jest MySQL. Requesty testowałem przy użyciu Postman'a i testów jednostkowych. 
 
 ### Baza danych
 
