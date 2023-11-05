@@ -60,8 +60,11 @@ CREATE TABLE Project (
     taskIdList VARCHAR(500)
 );
 ```
-Reszta ustawień dotyczączych połączenia bazy danych znajduje się w pliku
-    
+Reszta ustawień dotyczączych połączenia bazy danych znajduje się w tym [pliku](https://github.com/Leadman5555/MainVersion/blob/main/MainVersion/ProjectManagment_IS/src/main/resources/application.properties)
+
+### Test jednostkowe
+
+
     
     
     
