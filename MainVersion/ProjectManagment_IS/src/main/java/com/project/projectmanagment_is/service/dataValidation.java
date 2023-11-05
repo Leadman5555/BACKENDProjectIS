@@ -69,6 +69,7 @@ public class dataValidation {
      * it returns the user decision if the task was declared as completed (1) or not (2).
      *
      * @param taskDtoStatus The data transfer object for updating the data of the task
+     * @param projectId     Id of the project that the task is linked to
      * @param taskId        Id of the task
      * @Results: (1) Data is valid, task was declared as finished, returns 1.
      * <p></p>(2) Data is valid, task was declared as unfinished (in-progress), returns 2.
