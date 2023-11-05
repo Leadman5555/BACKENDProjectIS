@@ -22,7 +22,7 @@ Mocno zaangażowałem się w zadanie rekrutacyjne, stopniowo poznawając Spring 
 
 ### Spełnione wymagania
 
-Projekt spełnia wszystkie wymagania z Waszej listy, łącznie z "Nice to have" - testami jednostkowymi oraz dokumentacją. Całość jest napisana w Javie z użyciem Spring Boot, a zewnętrzną bazą danych jest MySQL. Requesty testowałem przy użyciu Postman'a, oprócz testów jednostkowych. 
+Projekt spełnia wszystkie wymagania z Waszej listy, łącznie z "Nice to have" - testami jednostkowymi oraz dokumentacją. Całość jest napisana w Javie z użyciem Spring Boot, a zewnętrzną bazą danych jest MySQL. Requesty testowałem przy użyciu Postman'a i testów jednostkowych. 
 
 ### Baza danych
 
@@ -62,7 +62,33 @@ CREATE TABLE Project (
 ```
 Reszta ustawień dotyczączych połączenia bazy danych znajduje się w tym [pliku](https://github.com/Leadman5555/MainVersion/blob/main/MainVersion/ProjectManagment_IS/src/main/resources/application.properties)
 
-### Test jednostkowe
+Przykładowy wygląd tabel:
+<div align="center">
+<img src="./assets/tasksTable.png">
+<img src="./assets/projectTable.png">
+<img src="./assets/developerTable.png">
+</div>
+
+### Testy jednostkowe
+Testy jednostkowe obejmują wszystkie istotne funkcjonalności i są podzielone na trzy grupy:
+- Controller tests
+- Service tests 
+- Validation tests (testy części programu odpowiedzialnej za sprawdzanie poprawności danych)
+
+Każdy test jest nazwany według schematu: nazwaTestowanejMetody_ShouldOpisOczekiwanegoWyniku_WhenOpisDanych
+
+Line coverage:
+<div align="center">
+<img src="./assets/coverageResized.png">
+</div>
+
+### Dokumentacja
+Dokumentacja w projekcie jest pisana nad każdą metodą z osobna. Niektóre metody posiadają dodatkowe komentarze opisujące kod oprócz początkowej dokumentacji. Całość dokumentcji, komentarzy jak i nazwy wszystkich zmiennych czy pól w projekcie są w języku angielskim.
+
+Przykładowa dokumentacja metody: 
+<div align="center">
+<img src="./assets/doc.png">
+</div>
 
 
     
