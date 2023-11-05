@@ -16,7 +16,7 @@ Kierunek: Informatyka Stosowana
 ### A teraz trochę więcej:
 Przed rozpoczęciem studiów miałem styczność jedynie z C++, w którym pisałem maturę z informatyki, oraz z programowaniem algorytmicznym. Pierwszy program w Java z użyciem klas napisałem niecały tydzień przed rozpoczęciem studiów, a o API czy zasadach REST dowiedziałem się dopiero po przeczytaniu zadania rekrutacyjnego około 13 października.
 
-Mocno zaangażowałem się w zadanie rekrutacyjne, stopniowo poznając Spring Boot, requesty w HTML, współpracę z zewnętrzną bazą danych (MySQL), a pod sam koniec pisanie testów jednostkowych i pierwszej w życiu dokumentacji. Można więc śmiało powiedzieć, że początkowo nie wiedziałem na ten temtat nic, a jednak po niecałym miesiącu prawie codziennej pracy nad projektem, czuję się w komfortowo zarówno w architekurze API, jak i w samej Javie. Tematyka ta mnie fascynuje i bardzo szybko się uczę, dlatego chciałbym dołączyć do koła już na pierwszym roku.
+Mocno zaangażowałem się w zadanie rekrutacyjne, stopniowo poznając Spring Boot, requesty w HTML, współpracę z zewnętrzną bazą danych (MySQL), a pod sam koniec pisanie testów jednostkowych i pierwszej w życiu dokumentacji. Można więc śmiało powiedzieć, że początkowo nie wiedziałem na ten temtat nic, a jednak po niecałym miesiącu prawie codziennej pracy nad projektem, czuję się w komfortowo zarówno w architekurze API, jak i w samej Javie. Tematyka ta mnie fascynuje i bardzo szybko się uczę, dlatego chciałbym dołączyć do koła i współpracować z wami już na pierwszym roku.
 
 ## O projekcie
 
