@@ -3,26 +3,26 @@
 ## Kilka słów o mnie
 
 ### Powtórka z formularza i kierunek:
-Imię i Nazwisko: Ignacy Smoliński
+Imię i nazwisko: Ignacy Smoliński
 
 E-mail: ignacy.smolinski@gmail.com
 
 Wydział: W4N - Wydział Informatyki i Telekomunikacji
 
-Rok: 1, 1 semestr
+Rok: 1, semestr 1
 
 Kierunek: Informatyka Stosowana
 
 ### A teraz trochę więcej:
-Przed rozpoczęciem studiów miałem styczność jedynie z C++, to w nim pisałem maturę z informatyki, oraz z programowaniem algorytmicznym. Pierwszy program w Java z użyciem klas napisałem niecały tydzień przed rozpoczęciem studiów, a o API, czy zasadach REST dowiedziałem się dopiero po przeczytaniu zadania rekrutacyjnego około 13 października.
+Przed rozpoczęciem studiów miałem styczność jedynie z C++, w którym pisałem maturę z informatyki, oraz z programowaniem algorytmicznym. Pierwszy program w Java z użyciem klas napisałem niecały tydzień przed rozpoczęciem studiów, a o API czy zasadach REST dowiedziałem się dopiero po przeczytaniu zadania rekrutacyjnego około 13 października.
 
-Mocno zaangażowałem się w zadanie rekrutacyjne, stopniowo poznawając Spring Boot, requesty w HTML, współpracę z zewnętrzną bazą danych (MySQL), a pod sam koniec pisanie testów jednostkowych i pierwszej w życiu dokumentacji. Można więc śmiało powiedzieć, że początkowo nie wiedziałem na ten temtat nic, a jednak po niecałym miesiącu prawie codziennej pracy nad projektem, czuje się w komfortowo zarówno w architekurze API, jak i w samej Javie.
+Mocno zaangażowałem się w zadanie rekrutacyjne, stopniowo poznając Spring Boot, requesty w HTML, współpracę z zewnętrzną bazą danych (MySQL), a pod sam koniec pisanie testów jednostkowych i pierwszej w życiu dokumentacji. Można więc śmiało powiedzieć, że początkowo nie wiedziałem na ten temtat nic, a jednak po niecałym miesiącu prawie codziennej pracy nad projektem, czuję się w komfortowo zarówno w architekurze API, jak i w samej Javie. Tematyka ta mnie fascynuje i bardzo szybko się uczę, dlatego chciałbym dołączyć do koła już na pierwszym roku.
 
 ## O projekcie
 
 ### Ogólna idea
 
-Do bazy danych można dodawać developerów, projekty i zadania. Każdy projekt ma trzy główne pola: developera, który go stworzył, drużynę developerów, którzy nad nim pracują i są do niego przypisani na etapie tworzenia projektu oraz listę przypisanych zadań. Zadania można przypisywać, a później edytować, do dowolnego projektu, a do każdego zadania - odpowiedniego developera, który się nim zajmuje i może je ukończyć.
+Do bazy danych można dodawać developerów, projekty i zadania. Każdy projekt ma trzy główne pola: developera, który go stworzył, drużynę developerów, którzy nad nim pracują i są do niego przypisani na etapie tworzenia projektu, oraz listę przypisanych zadań. Zadania można przypisywać (a później edytować) do dowolnego projektu, a do każdego zadania można przypisać (a później zmienić) odpowiedniego developera, który się nim zajmuje i może je ukończyć.
 
 ### Spełnione wymagania
 
@@ -87,7 +87,7 @@ Line coverage:
 </div>
 
 ### Dokumentacja
-Dokumentacja w projekcie jest pisana nad każdą metodą z osobna. Niektóre metody posiadają dodatkowe komentarze opisujące kod oprócz początkowej dokumentacji. Całość dokumentcji, komentarzy jak i nazwy wszystkich zmiennych czy pól w projekcie są w języku angielskim.
+Dokumentacja w projekcie jest pisana nad każdą metodą z osobna. Niektóre metody posiadają dodatkowe komentarze opisujące kod oprócz początkowej dokumentacji. Całość dokumentacji, komentarzy jak i nazwy wszystkich zmiennych czy pól w projekcie są w języku angielskim.
 
 Przykładowa dokumentacja metody: 
 <div align="center">
